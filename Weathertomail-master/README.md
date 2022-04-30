@@ -14,6 +14,3 @@
 * All the main logic is inside the views.py file, where first thing I did is to make an API request call to https://openweathermap.org/api , where it provides weather information
 * The same , information I embedded in the mail , and sending the mails.
 
-
-## Gallery:
-![image](https://user-images.githubusercontent.com/69596691/148989103-3df390f0-c35d-4ebb-aba2-226886819034.png)
